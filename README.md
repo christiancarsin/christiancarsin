@@ -1,29 +1,38 @@
-### Christian C. 👋
+# Hi, I'm Christian Carsin 👋
 
-- 🎓 Higher Technician in Multi-platform Applications Development / Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 
-- 🌱 Constantly learning, nowadays learning about Software Architecture, design patterns and distributed systems.
-- 💬 Spanish native and fluent in English
-- 📫 [Website](https://www.muldev.dev) / [carsinchristian@gmail.com](mailto:carsinchristian@gmail.com)
+**Senior Software Engineer** passionate about building systems that are scalable, resilient, and easy to evolve.
 
-## Techs 🛠️
+Over the past few years I've worked on modernizing mission-critical payment platforms, evolving monolithic applications into distributed systems, and helping teams deliver reliable software through thoughtful architecture and engineering practices.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![OpenShift](https://img.shields.io/badge/Red%20Hat%20Open%20Shift-E00?logo=redhatopenshift&logoColor=fff&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+I enjoy solving complex backend problems where software design matters more than individual technologies.
 
+## What I enjoy working on
 
+* Designing distributed systems that remain simple to operate
+* Building reliable, high-availability backend services
+* Evolving legacy systems through incremental modernization
+* Designing event-driven architectures
+* Improving performance, scalability, and observability
+* Collaborating on architecture and technical direction
+* Mentoring engineers and sharing knowledge
+
+## Current interests
+
+* Software Architecture
+* Distributed Systems
+* Domain-Driven Design
+* Event-Driven Systems
+* Platform Engineering
+* System Design
+
+## Outside of work
+
+I'm constantly learning and experimenting with ideas around software architecture, system design, and the trade-offs involved in building software that lasts.
+
+## Connect
+
+🌐 https://christiancarsin.com
+
+💼 https://linkedin.com/in/christiancarsin
+
+📫 [carsinchristian@gmail.com](mailto:carsinchristian@gmail.com)
